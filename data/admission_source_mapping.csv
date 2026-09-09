@@ -1,0 +1,26 @@
+﻿Sum of admission_source_id,description
+23, Born inside this hospital
+24, Born outside this hospital
+8, Court/Law Enforcement
+7, Emergency Room
+14, Extramural Birth
+9, Not Available
+20, Not Mapped
+1, Physician Referral
+12, Premature Delivery
+13, Sick Baby
+5, Transfer from a Skilled Nursing Facility (SNF)
+25, Transfer from Ambulatory Surgery Center
+6, Transfer from another health care facility
+18, Transfer From Another Home Health Agency
+10, Transfer from critial access hospital
+22, Transfer from hospital inpt/same fac reslt in a sep claim
+2,Clinic Referral
+3,HMO Referral
+11,Normal Delivery
+15,Not Available
+17,NULL
+19,Readmission to Same Home Health Agency
+4,Transfer from a hospital
+26,Transfer from Hospice
+21,Unknown/Invalid
